@@ -15,4 +15,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JohnnyNLP/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
