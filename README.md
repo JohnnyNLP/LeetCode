@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JohnnyNLP/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
 ## String Matching
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
+## Trie
+|  |
+| ------- |
+| [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
 <!---LeetCode Topics End-->
