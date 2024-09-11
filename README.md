@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/JohnnyNLP/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,10 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +75,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/JohnnyNLP/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 <!---LeetCode Topics End-->
