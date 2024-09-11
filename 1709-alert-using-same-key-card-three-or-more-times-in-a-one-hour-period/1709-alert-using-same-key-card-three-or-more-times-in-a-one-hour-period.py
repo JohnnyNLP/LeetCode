@@ -35,5 +35,4 @@ class Solution(object):
             keyDict[key] = convert_to_minutes(value)
             if usage_time_checker(keyDict[key]): alert.append(key)
 
-        print(keyDict)
         return sorted(alert)
