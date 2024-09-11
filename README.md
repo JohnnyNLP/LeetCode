@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JohnnyNLP/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## String Matching
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/JohnnyNLP/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0839-short-encoding-of-words](https://github.com/JohnnyNLP/LeetCode/tree/master/0839-short-encoding-of-words) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Trie
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/JohnnyNLP/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+## Sorting
+|  |
+| ------- |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 <!---LeetCode Topics End-->
