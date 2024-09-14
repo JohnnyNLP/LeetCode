@@ -28,7 +28,6 @@ class Solution(object):
             elif idx > 0 and num % 2 == 1:
                 o_count += 1
         
-        print(alt_count, o_count, e_count)
         return max(alt_count, o_count, e_count)
 
                 
