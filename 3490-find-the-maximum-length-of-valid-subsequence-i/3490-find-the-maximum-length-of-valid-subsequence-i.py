@@ -5,8 +5,6 @@ class Solution(object):
         :rtype: int
         """
         
-        if len(nums) == 2 : return 2
-
         alt_count, o_count, e_count = 1, 0, 0
         # initial case setup
         expect_odd = (nums[0]%2 == 0)
