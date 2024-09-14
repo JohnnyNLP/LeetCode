@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/JohnnyNLP/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JohnnyNLP/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/JohnnyNLP/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JohnnyNLP/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
