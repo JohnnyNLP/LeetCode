@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -48,18 +49,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/JohnnyNLP/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/JohnnyNLP/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
