@@ -13,15 +13,26 @@ class Solution(object):
         :rtype: int
         """
         
-        #DFS
-        stack = []
-        if root:
-            # root and level
-            stack.append((root, 1))
+        # #DFS
+        # stack = []
+        # if root:
+        #     # root and level
+        #     stack.append((root, 1))
+        # depth = 0
+        # while stack :
+        #     (node, level) = stack.pop()
+        #     depth = max(depth, level)
+        #     for child in node.children:
+        #         stack.append((child, level+1))
+        # return depth
+
+        # BFS
+        queue = []
+        if root: queue.append((root, 1))
         depth = 0
-        while stack :
-            (node, level) = stack.pop()
-            depth = max(depth, level)
+        for (node, level) in queue:
+            depth = level
             for child in node.children:
-                stack.append((child, level+1))
+                queue.append((child, level+1))
         return depth
+        
