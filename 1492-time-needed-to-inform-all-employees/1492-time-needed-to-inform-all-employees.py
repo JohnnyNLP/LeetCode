@@ -12,15 +12,15 @@ class Solution(object):
             if manager[i] != -1 :
                 tree[manager[i]].append(i)
 
-        queue = collections.deque()
-        queue.append((headID, 0))
-        t = 0
-
-        while queue:
-            boss, time_needed = queue.popleft()
-            t = max(t, time_needed)
+        def dfs(boss):
+            if not tree[boss]:
+                return 0
             
-            for subord in tree[boss]:
-                queue.append((subord, time_needed + informTime[boss]))
-
-        return t
+            max_time = 0
+            for subordinate in tree[boss]:
+                max_time = max(max_time, dfs(subordinate))
+            
+            return informTime[boss] + max_time
+        
+        # headID에서 시작하여 총 걸린 시간을 계산
+        return dfs(headID)
